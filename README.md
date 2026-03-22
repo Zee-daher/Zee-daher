@@ -1,7 +1,7 @@
 # Hi there, I'm Zain Aldeen AlDaher 👋 
 
 ### 🎓 Informatics Engineer | AI Specialist | Technical Artist
-I am a 4th-year Informatics Engineering student passionate about the intersection of **Artificial Intelligence** and **Computer Graphics**. My goal is to create immersive digital experiences by bridging the gap between code and art.
+I am an Informatics Engineering student passionate about the intersection of **Artificial Intelligence** and **Computer Graphics**. My goal is to create immersive digital experiences by bridging the gap between code and art.
 
 ---
 
@@ -16,9 +16,20 @@ I am a 4th-year Informatics Engineering student passionate about the intersectio
 ---
 
 ### 🎨 Visual Portfolio
-Check out my latest 3D projects and technical art on [ArtStation](https://www.artstation.com/zee_daher).
+🌐 **ArtStation:** [Check out my 3D projects & Technical Art](https://www.artstation.com/zee_daher)
 
 ---
 
-### 📈 GitHub Stats
-![Zain Aldeen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zee-daher&show_icons=true&theme=radical)
+### 📈 GitHub Stats & Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zee-daher&show_icons=true&theme=radical&hide_border=true" alt="Zain's Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zee-daher&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+<p align="center">
+"Optimizing the bridge between high-performance code and digital art." 🤖⚡
+</p>
